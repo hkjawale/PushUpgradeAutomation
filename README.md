@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SFDX  App
 
 ## Dev, Build and Test
@@ -12,3 +13,6 @@
 ## Issues
 
 
+=======
+# PushUpgradeAutomation
+>>>>>>> 30621a0ae289632d4ac29dcdb6d5db928f23cf22
