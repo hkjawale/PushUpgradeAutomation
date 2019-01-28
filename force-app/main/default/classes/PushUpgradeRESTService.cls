@@ -86,10 +86,10 @@ to which the customer wants to upgrade and the desired date/time of the upgrade
                         //This means the subscriber is eligible for a push upgrade patch version 
                         
                			//Authentication parameters for the REST API calls 
-                        String clientId = '3MVG9szVa2RxsqBaNbDRlZWb.mTc_F9gmkLQErJNSWGkHv6FDF8jGyA9EYHnZKtfDc_fY5C0TYKNZA7Fkkqxv';
-                        String clientSecret = '9076554261075339030';
-                        String username = 'hjawale@devimplement.com';
-                        String password = 'test@1234';
+                        String clientId = 'xxxyyyzzz';
+                        String clientSecret = '999000';
+                        String username = 'xxxxx@yyy.com';
+                        String password = 'xxx';
                         String reqbody = 'grant_type=password&client_id='+clientId+'&client_secret='+clientSecret+'&username='+username+'&password='+password;
 					
                         System.debug('req body: '+reqbody);
