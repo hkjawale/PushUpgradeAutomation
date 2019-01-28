@@ -1,0 +1,14 @@
+/* Sample request to call the REST Apex class enpoint */
+
+POST: https://NAX.salesforce.com/services/data/v40.0/sobjects/packagepushrequest/
+
+Headers:
+Content-Type: application/json
+Authorization: Bearer xxxAuthTokenxxx
+
+Body: 
+{
+"PackageVersionId" : "04xxx0000000000000",
+"ScheduledStartTime" : "2017-06-20T03:33:00",
+"Status" : "Pending" 
+}
