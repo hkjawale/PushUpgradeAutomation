@@ -1,18 +1,6 @@
-<<<<<<< HEAD
-# SFDX  App
+Push upgrade Automation using Push Upgrade API 
 
-## Dev, Build and Test
+Refer to this blog for more details: https://link.medium.com/aR5n4pXTVT
 
+Start with the PushUpgradeRESTService.cls apex class to see how the code works. 
 
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
-
-=======
-# PushUpgradeAutomation
->>>>>>> 30621a0ae289632d4ac29dcdb6d5db928f23cf22
